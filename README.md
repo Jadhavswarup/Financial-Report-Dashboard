@@ -71,3 +71,4 @@ DAX for calculated measures
 Data modeling and visualizations
  screenshot
 ![dashboard screenshot]( https://github.com/Jadhavswarup/Financial_report/blob/main/Screenshot%20(1).png)
+![dashboard screenshot](https://github.com/Jadhavswarup/Financial-Report-Dashboard/blob/main/Screenshot%20(2).png)

@@ -70,7 +70,8 @@ Pie chart: Sales distribution by product.
 
 -Data modeling and visualizations
 
- #Screenshot
+ 📷 Screenshots
+ 
 ![dashboard screenshot]( https://github.com/Jadhavswarup/Financial_report/blob/main/Screenshot%20(1).png)
 ![dashboard screenshot](https://github.com/Jadhavswarup/Financial-Report-Dashboard/blob/main/Screenshot%20(2).png)
 ![dashboard screenshot](https://github.com/Jadhavswarup/Financial-Report-Dashboard/blob/main/Screenshot%20(3).png)

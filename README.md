@@ -69,3 +69,5 @@ Power BI Desktop
 DAX for calculated measures
 
 Data modeling and visualizations
+ screen shot
+ 

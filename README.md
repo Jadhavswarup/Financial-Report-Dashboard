@@ -69,5 +69,5 @@ Power BI Desktop
 DAX for calculated measures
 
 Data modeling and visualizations
- screen shot
- https://github.com/Jadhavswarup/Financial_report/blob/main/Screenshot%20(1).png
+ screenshot
+![dashboard screenshot]( https://github.com/Jadhavswarup/Financial_report/blob/main/Screenshot%20(1).png)

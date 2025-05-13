@@ -5,71 +5,72 @@ This repository contains an interactive Financial Report Dashboard built using M
 🔍 Overview
 The dashboard is divided into three main report pages:
 
-Sales Report
+(1)Sales Report
 
-Profit Report
+(2)Profit Report
 
-Unit Sold Report
+(3)Unit Sold Report
 
-Each report includes detailed visualizations by:
+#Each report includes detailed visualizations by:
 
-Product
+-Product
 
-Segment
+-Segment
 
-Discount Band
+-Discount Band
 
-Month Name
+-Month Name
 
-Country (filter-enabled)
+-Country (filter-enabled)
 
 📈 Features
 📌 Sales Report
 Pie chart: Sales distribution by product.
 
-Bar charts:
+-Bar charts:
 
-Sales by customer segment.
+-Sales by customer segment.
 
-Sales by discount band.
+-Sales by discount band.
 
-Line chart: Sales trend over the months.
+-Line chart: Sales trend over the months.
 
-Country filters: Analyze sales by region.
+-Country filters: Analyze sales by region.
 
 💰 Profit Report
-Pie chart: Profit distribution by product.
+-Pie chart: Profit distribution by product.
 
-Bar charts:
+-Bar charts:
 
-Profit by segment.
+-Profit by segment.
 
-Profit by discount band.
+-Profit by discount band.
 
-Line chart: Monthly profit trend.
+-Line chart: Monthly profit trend.
 
-Country filters: Drill down into profit by geography.
+-Country filters: Drill down into profit by geography.
 
 📦 Unit Sold Report
-Pie chart: Units sold by product.
+-Pie chart: Units sold by product.
 
-Bar charts:
+-Bar charts:
 
-Units sold by segment.
+-Units sold by segment.
 
-Units sold by discount band.
+-Units sold by discount band.
 
-Line chart: Units sold over months.
+-Line chart: Units sold over months.
 
-Country filters: Explore units sold per country.
+-Country filters: Explore units sold per country.
 
 🧰 Tools & Technologies
-Power BI Desktop
+-Power BI Desktop
 
-DAX for calculated measures
+-DAX for calculated measures
 
-Data modeling and visualizations
- screenshot
+-Data modeling and visualizations
+
+ #Screenshot
 ![dashboard screenshot]( https://github.com/Jadhavswarup/Financial_report/blob/main/Screenshot%20(1).png)
 ![dashboard screenshot](https://github.com/Jadhavswarup/Financial-Report-Dashboard/blob/main/Screenshot%20(2).png)
 ![dashboard screenshot](https://github.com/Jadhavswarup/Financial-Report-Dashboard/blob/main/Screenshot%20(3).png)

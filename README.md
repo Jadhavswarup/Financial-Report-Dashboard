@@ -72,6 +72,6 @@ Pie chart: Sales distribution by product.
 
  📷 Screenshots
  
-![dashboard screenshot]("C:\Users\shree\OneDrive\Pictures\Screenshots\Screenshot 2025-06-05 201223.png")
-![dashboard screenshot]("C:\Users\shree\OneDrive\Pictures\Screenshots\Screenshot 2025-06-08 191653.png")
-![dashboard screenshot]("C:\Users\shree\OneDrive\Pictures\Screenshots\Screenshot 2025-06-08 192319.png")
+![dashboard screenshot](https://github.com/Jadhavswarup/Financial-Report-Dashboard/blob/main/Screenshot%202025-06-05%20201223.png)
+![dashboard screenshot](https://github.com/Jadhavswarup/Financial-Report-Dashboard/blob/main/Screenshot%202025-06-08%20191653.png)
+![dashboard screenshot](https://github.com/Jadhavswarup/Financial-Report-Dashboard/blob/main/Screenshot%202025-06-08%20192319.png)
